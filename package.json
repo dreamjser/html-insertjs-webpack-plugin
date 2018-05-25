@@ -1,10 +1,14 @@
 {
   "name": "html-insertjs-webpack-plugin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "insert js into body",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dreamjser/html-insertjs-webpack-plugin"
   },
   "author": "dreamjser",
   "license": "ISC"
